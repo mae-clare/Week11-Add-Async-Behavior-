@@ -1,0 +1,25 @@
+===== WEEK 11: ASYNCHRONOUS OOP =====
+
+--- Paintbrush Information ---
+Tool: Flat Paintbrush
+Color: Blue
+Size: 2.5
+Clean: true
+Flat Paintbrush spreads Blue paint over a wide surface.
+
+--- Async/Await Demonstration ---
+1. Starting the save operation...
+Saving painting made with Flat Paintbrush...
+2. The program can continue while the save is in progress.
+3. Result: Painting made with Blue paint using Flat Paintbrush was saved successfully.
+
+--- Other OOP Features ---
+Tool: Round Paintbrush
+Color: Red
+Size: 1
+Clean: true
+Round Paintbrush creates detailed lines using Red paint.
+Palette: My Art Palette
+PaintPalette has been cleaned.
+
+===== PROGRAM FINISHED =====
